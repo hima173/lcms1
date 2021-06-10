@@ -1,0 +1,1 @@
+<?php echo "Please <a href='login_lawyer.php'>Login</a> to Access This Page";?>
